@@ -1,0 +1,5 @@
+version : 1.0.0
+
+jsBridge是webview里js和native进行通信的插件，类似cordova。
+不过cordova目前过于庞大，jsBridge主要借鉴了cordova的设计，仅保留了js和native通信调用的功能。
+目前暂支持Android版本
